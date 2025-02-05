@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaybali&label=Profile%20views&color=0e75b6&style=flat" alt="zaybali" /> </p>
 
+- 🌐 I’m a CMS & Web Developer, currently working on a CMS-based eCommerce project. If you're looking for a professional CMS website, feel free to reach out!
+  
 - 🌱 I’m currently learning **Next.js, Firebase, Express.js and MongoDB**
 
 - 👨‍💻 All of my projects are available at [zaybali.github.io](zaybali.github.io)
